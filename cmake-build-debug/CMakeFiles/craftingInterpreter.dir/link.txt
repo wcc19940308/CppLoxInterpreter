@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/craftingInterpreter.dir/main.cpp.o CMakeFiles/craftingInterpreter.dir/Lox.cpp.o CMakeFiles/craftingInterpreter.dir/Scanner.cpp.o CMakeFiles/craftingInterpreter.dir/Token.cpp.o  -o craftingInterpreter 

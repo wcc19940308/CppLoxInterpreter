@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="craftingInterpreter"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="craftingInterpreter">
+				<Option output="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/craftingInterpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 craftingInterpreter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="craftingInterpreter/fast">
+				<Option output="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/craftingInterpreter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 craftingInterpreter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wangchenchao/CLionProject/craftingInterpreter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/Lox.cpp">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/Lox.h">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/Scanner.cpp">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/Scanner.h">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/Token.cpp">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/Token.h">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/main.cpp">
+			<Option target="craftingInterpreter"/>
+		</Unit>
+		<Unit filename="/Users/wangchenchao/CLionProject/craftingInterpreter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
